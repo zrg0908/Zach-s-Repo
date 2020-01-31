@@ -1,0 +1,14 @@
+Package: com.mytheme.package
+Name: My Theme
+Version: 0.1
+Architecture: iphoneos-arm
+Description: A theme made to add more to Lotus Dark!
+Maintainer: Zachary Gonzalez
+Author: Zachary Gonzalez
+Section: Theme
+Depends: 
+Filename: debs/MyThemeForCydia.deb
+Size: 22,364
+md5sum: 319a7b4c1e572640715fb4cf1596a6b1
+sha1: 2f1fe0eacce4e3e3d408ebd1b9d941081afe68cd
+sha256: 213ba67eb836c7ace20a80e29954922812d77364e4a1c56c7d1201eb886ebbe4
