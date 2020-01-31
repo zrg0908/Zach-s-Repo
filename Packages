@@ -1,0 +1,14 @@
+Package: com.zacharygonzalez.lotusdarkplus
+Name: Lotus Dark Plus
+Version: 0.1
+Architecture: iphoneos-arm
+Description: A small add-on to the Lotus Dark theme!
+Maintainer: Zachary Gonzalez
+Author: Zachary Gonzalez
+Section: Themes
+Depends: com.spark.snowboard
+Filename: debs/LotusDarkPlusTweak.deb
+Size: 22364
+MD5sum: 6732f35fc39fdea61a7d091dedb469ff
+SHA1: 639dcbe25334dea3a290bcd732e8c27b9f225654
+SHA256: a225c85a95dbfc55e5cbddc67f8d28d8d489ee5cc36eca73bdd2307e4acdc124
