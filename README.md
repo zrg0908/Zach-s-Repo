@@ -1,6 +1,6 @@
 # Zach-s-Repo
-📦 A repo made for Cydia!
+## 📦 A repo made for Cydia!
 
-Tweaks Included in This Repo:
+**Tweaks Included in This Repo:**
 
-•Lotus Dark Plus (v1.0)
+  •Lotus Dark Plus *(v1.0)*
