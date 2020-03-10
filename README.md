@@ -2,4 +2,4 @@
 
 **Tweaks Included in This Repo:**
 
-  •Lotus Dark Plus *(v1.0)*
+  •Lotus Dark Plus *(v1.0.1)*
